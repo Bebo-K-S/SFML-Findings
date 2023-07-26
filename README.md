@@ -4,26 +4,6 @@ This repository will house all my findings in SFML as to make developing future 
 # Files
 - [A login simulation](Login_Simulation.cpp). [Description](#login-simulation)
 
-. as
-
-. as
-
-. aa
-
-. aa
- 
-. aa
-
-. aa
-
-. aa
-
-. aa
-
-.aa 
-
-.aa 
-
 # Login Simulation
 
 This code is a simple login screen created using the SFML (Simple and Fast Multimedia Library) graphics library. The login screen contains two input fields for username and password, as well as a login button. When the user enters their username and password and presses the login button or the enter key, the program checks if the entered username and password are correct, and displays a message accordingly.
