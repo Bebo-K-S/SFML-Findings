@@ -2,7 +2,7 @@
 This repository will house all my findings in SFML as to make developing future GUI projects using SFML more efficient and faster.
 
 # Files
-- [A login simulation](Login_Simulation.cpp). [Description](https://github.com/Bebo-K-S/SFML-Findings/edit/main/README.md#login-simulation)
+- [A login simulation](Login_Simulation.cpp). [Description](-login-simulation)
 
 
 
