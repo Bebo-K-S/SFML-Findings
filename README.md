@@ -4,25 +4,25 @@ This repository will house all my findings in SFML as to make developing future 
 # Files
 - [A login simulation](Login_Simulation.cpp). [Description](#-login-simulation)
 
-.
+. as
 
-.
+. as
 
-.
+. aa
 
-.
+. aa
+ 
+. aa
 
-.
+. aa
 
-.
+. aa
 
-.
+. aa
 
-.
+.aa 
 
-.
-
-.
+.aa 
 
 # Login Simulation
 
