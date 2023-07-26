@@ -2,7 +2,7 @@
 This repository will house all my findings in SFML as to make developing future GUI projects using SFML more efficient and faster.
 
 # Files
-- [A login simulation](Login_Simulation.cpp). [Description](#-login-simulation)
+- [A login simulation](Login_Simulation.cpp). [Description](#-Login-Simulation)
 
 . as
 
