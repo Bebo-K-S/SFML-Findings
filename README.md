@@ -3,6 +3,7 @@ This repository will house all my findings in SFML as to make developing future 
 
 # Files
 - [A login simulation](Login_Simulation.cpp). [Description](#login-simulation)
+- [Scene Manager](Scene_Manager.cpp). [Description](#scene-manager)
 
 # Login Simulation
 
@@ -26,4 +27,35 @@ The program also changes the color of the input fields and the login button when
 
 Finally, the program clears the window, draws all the graphical elements, and displays the window using window.display().
 
+</details>
+
+
+# Scene Manager
+
+This code provides a basic framework for a game engine or interactive fiction engine. 
+
+It uses a loop to repeatedly call functions for each scene until the end of the game is reached. The current scene is tracked using a pointer to an integer, and the code for each scene is executed using a switch statement. 
+
+The loop continues until the current scene is set to -1, at which point the program exits the loop and returns 0 from the main() function. To create a fully functional game, you would need to define the different scenes and their corresponding functions, and set up the logic to advance the player from one scene to the next.
+
+<details>
+
+<summary>In Details</summary>
+
+Let's go through the code step by step:
+
+1. The main() function is the starting point of the program.
+
+2. The int* scene = 0; line creates a pointer to an integer and initializes it to zero. This pointer will be used to keep track of the current scene.
+
+3. The while (*scene != -1) line creates a loop that will continue until the current scene is set to -1. This is typically used as a signal to end the game.
+
+4. The switch (*scene) line checks the value of the current scene and executes the code for that scene. The case statements represent different scenes in the game, and the corresponding code for each scene is executed when the current scene matches the case value.
+
+5. The break statements at the end of each case block are used to exit the switch statement and continue with the loop.
+
+6. The loop continues until the current scene is set to -1, at which point the program exits the loop and returns 0 from the main() function.
+
+Overall, this code provides a basic framework for a game or interactive fiction engine, but it doesn't actually do anything useful on its own. To create a fully functional game, you would need to define the different scenes and their corresponding functions, and set up the logic to advance the player from one scene to the next.
+ 
 </details>
