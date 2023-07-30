@@ -2,8 +2,8 @@
 This repository will house all my findings in SFML as to make developing future GUI projects using SFML more efficient and faster.
 
 # Files
-- [A login simulation](Login_Simulation.cpp). [Description](#login-simulation)
-- [Scene Manager](Scene_Manager.cpp). [Description](#scene-manager)
+- [A login simulation](Files/Login_Simulation.cpp). [Description](#login-simulation)
+- [Scene Manager](Files/Scene_Manager.cpp). [Description](#scene-manager)
 
 # Login Simulation
 
