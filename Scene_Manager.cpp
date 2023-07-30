@@ -2,7 +2,7 @@
 
 int main()
 {
-    int* scene = 0;
+    int* scene = new int(0);
 
     while (*scene != -1)
     {
